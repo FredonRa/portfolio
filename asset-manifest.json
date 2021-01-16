@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.76197bc2.chunk.css",
-    "main.js": "/portfolio/static/js/main.aeb2fed4.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.aeb2fed4.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e7c03008.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e7c03008.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.ec4e9bee.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.ec4e9bee.js.map",
     "static/js/2.64ccdc37.chunk.js": "/portfolio/static/js/2.64ccdc37.chunk.js",
@@ -14,16 +14,18 @@
     "static/js/2.64ccdc37.chunk.js.LICENSE.txt": "/portfolio/static/js/2.64ccdc37.chunk.js.LICENSE.txt",
     "static/media/CV-Leiva-Federico-Ivan.2c7b0e4b.pdf": "/portfolio/static/media/CV-Leiva-Federico-Ivan.2c7b0e4b.pdf",
     "static/media/css.9d56f943.png": "/portfolio/static/media/css.9d56f943.png",
+    "static/media/findyou.d0bf0fba.png": "/portfolio/static/media/findyou.d0bf0fba.png",
     "static/media/git.49e8db82.png": "/portfolio/static/media/git.49e8db82.png",
     "static/media/html.c77fed67.png": "/portfolio/static/media/html.c77fed67.png",
     "static/media/js.afcba61e.png": "/portfolio/static/media/js.afcba61e.png",
     "static/media/materialUi.5b2d8a0a.png": "/portfolio/static/media/materialUi.5b2d8a0a.png",
-    "static/media/react.78e61144.png": "/portfolio/static/media/react.78e61144.png"
+    "static/media/react.78e61144.png": "/portfolio/static/media/react.78e61144.png",
+    "static/media/weather.fcd9266c.png": "/portfolio/static/media/weather.fcd9266c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ec4e9bee.js",
     "static/js/2.64ccdc37.chunk.js",
     "static/css/main.76197bc2.chunk.css",
-    "static/js/main.aeb2fed4.chunk.js"
+    "static/js/main.e7c03008.chunk.js"
   ]
 }
